@@ -1,6 +1,4 @@
-# Gift List (Solved ✅)
-
-<img src="./Screenshot%202023-01-28%20at%2011.46.17%20PM.png" width="100%"></img>
+# Merkel Gift Tree
 
 To get started with the repository, clone it and then run `npm install` in the top-level directory to install the depedencies.
 
